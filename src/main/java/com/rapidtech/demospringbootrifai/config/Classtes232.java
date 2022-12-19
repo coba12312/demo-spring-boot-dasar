@@ -1,4 +1,4 @@
 package com.rapidtech.demospringbootrifai.config;
 
-public class Classtes23 {
+public class Classtes232 {
 }
